@@ -10,9 +10,9 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodolfo_aramayo_Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolfo-aramayo-osorio)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodolfo_aramayo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolfo-aramayo)
   [![Website](https://img.shields.io/badge/Website-rodolfoaramayo.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rodolfoaramayo.com)
-  [![Email](https://img.shields.io/badge/Email-mail@rodolfoaramayo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@rodolfoaramayo.com)
+  [![Email](https://img.shields.io/badge/Email-mail@rodolfoaramayo.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@rodolfoaramayo.com)
   [![Blog](https://img.shields.io/badge/Blog-rodolfoaramayo.com/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://rodolfoaramayo.com/blog)
   
 </div>
