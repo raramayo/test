@@ -19,7 +19,7 @@
 
 <div align="center">
   <!-- <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-00A0E4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" /> -->
-  <img src="https://img.shields.io/badge/Location-College-Station-Texas-USA-0077B5?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-USA-0077B5?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" />
   <!-- <img src="https://img.shields.io/badge/Open_to_Work-No-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" /> -->
 </div>
 
